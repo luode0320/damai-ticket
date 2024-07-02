@@ -4,11 +4,12 @@
     ],
     "sess": [
         1,
-        2
+        2,
+        3,
+        4
     ],
     "price": [
-        1,
-        2
+        1
     ],
     "real_name": [
         1
@@ -18,9 +19,9 @@
     "viewer_person": [
         1
     ],
-    "driver_path": "C:\\Users\\admin\\Desktop\\damaihelper-main\\chromedriver.exe",
+    "driver_path": "C:\\Users\\Administrator\\Downloads\\chromedriver.exe",
     "damai_url": "https://www.damai.cn/",
-    "target_url": "https://m.damai.cn/damai/detail/item.html?itemId=门票ID",
+    "target_url": "https://m.damai.cn/damai/detail/item.html?itemId=807845782723",
     "comment": {
         "title": "comment 下的所有内容为自定义注释,无实际含义",
         "date": "1",

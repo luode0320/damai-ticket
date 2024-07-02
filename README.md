@@ -25,13 +25,16 @@
 - Python3
     - Selenium (4.10.0以下版本)
 - Chrome 以及配置与 Chrome 版本兼容的 ChromeDriver （当然，你也可以自行研究改用其它浏览器驱动）。
+    - https://chromedriver.storage.googleapis.com/index.html
+    - 自带的[chromedriver.exe](chromedriver.exe)是123.0.6312.86版本的chrome浏览器
 
 #### 脚本配置
 - 参照config.json中的[comment]字段。
 
 #### 脚本运行
 ```
-git clone
+git clone https://github.com/luode0320/damai-ticket.git
+pip install selenium==4.1.4
 python main.py
 ```
 
