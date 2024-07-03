@@ -19,7 +19,7 @@
     "viewer_person": [
         1
     ],
-    "driver_path": "C:\\Users\\Administrator\\Downloads\\chromedriver.exe",
+    "driver_path": "E:\\DamaiHelper\\chromedriver.exe",
     "damai_url": "https://www.damai.cn/",
     "target_url": "https://m.damai.cn/damai/detail/item.html?itemId=807845782723",
     "comment": {
